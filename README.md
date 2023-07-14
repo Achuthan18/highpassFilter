@@ -1,2 +1,2 @@
 # highpassFilter
-High pass filter through convolution with sampled audio data
+High pass filter through convolution of audio data with a sample signal.
